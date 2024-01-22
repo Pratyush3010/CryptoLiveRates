@@ -4,7 +4,7 @@ A demo app that fetches live crypto exchange rate.
 
 ## App Preview ##
 
-<img src="./preview/app_preview_dark.jpeg" alt="Dark Mode" width=280/> <img src="./preview/app_preview_light.jpeg" alt = "Light Mode" width=280/> 
+<img src=".[/preview/app_preview_dark.jpeg](https://github.com/Pratyush3010/CryptoLiveRates/assets/99137782/4a47107e-dbbc-4fc4-b83f-f5fda8c94a0b)" alt="Dark Mode" width=280/> <img src="./preview/app_preview_light.jpeg" alt = "Light Mode" width=280/> 
 
 ## Features ##
 
