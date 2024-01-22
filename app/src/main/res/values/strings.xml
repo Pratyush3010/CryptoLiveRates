@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Coin Prices</string>
+    <string name="toolbar_title">Live Crypto Exchange Rates</string>
+    <string name="action_settings">Settings</string>
+    <string name="currency_fragment_label">Crypto Currency</string>
+    <string name="next">Next</string>
+
+    <string name="error_no_internet">No Internet Connection!</string>
+    <string name="unknown_error">Unknown Error</string>
+
+    <string name="last_refreshed_text">Last updated at %s</string>
+    <string name="snackbar_retry_text">RETRY</string>
+</resources>
